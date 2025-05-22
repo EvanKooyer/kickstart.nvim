@@ -246,6 +246,10 @@ require('lazy').setup({
   },
 
   {
+    'sidebar-nvim/sidebar.nvim',
+  },
+
+  {
     'folke/snacks.nvim',
     priority = 1000,
     lazy = false,
